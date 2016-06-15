@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: 'Arimo', sans-serif;
+  background-image: url('img/bg-288.png');
+}
+
+.logo {
+  width: 18%;
+  position: absolute;
+  margin-left: 1%;
+  margin-top: 15px;
+
+}
+
+ul {
+  margin-top: -12px;
+  -webkit-border-radius: 5px;
+  border-radius: 5px;
+  padding: 10px;
+  padding-bottom: 0;
+  background-color: #333;
+  display: inline-block; width: 60%;
+  -webkit-box-shadow: 1px -1px 10px 1px #999;
+  box-shadow: 1px -1px 10px 1px #999;
+}
+
+ul li {
+  display: inline-block;
+  padding: 10px;
+  color: #fff;
+  font-size: 20px;
+  margin-right: 7px;
+  cursor: pointer;
+  text-decoration: none;
+  list-style-type: none;
+
+}
+
+.block {
+  vertical-align: middle;
+  margin-top: -100px;
+  padding-top: 130px;
+  width: 60%;
+  height: auto;
+  background-image: url('img/237_paper01.png');
+  padding-bottom: 50px;
+  -webkit-box-shadow: 1px -1px 10px 1px grey;
+  box-shadow: 1px -1px 10px 1px grey;
+}
+
+
+.block h2 {
+  margin-top: -150px;
+}
+.block iframe {
+  margin-top: -20px;
+}
+
+.welcome {
+  display: inline-block;
+  height: auto;
+
+}
+
+.welcome > p {
+  display: inline-block;
+  width: 350px;
+  text-align: left;
+  margin-top: -10px;
+  color: #444;
+  vertical-align: top;
+  padding: 10px;
+  font-size: 20px;
+}
+
+.welcome .img {
+  width: 350px;
+  height: auto;
+  display: inline-block;
+}
+
+.welcome .img img {
+  width: 300px;
+}
+
+h2 {
+  background-color: #fff;
+  padding: 10px;
+}
+
+
+.servic {
+  width: 96.3%;
+  height: auto;
+  background-color: #222;
+
+  text-align: left;
+  font-size: 20px;
+  color: #fff;
+  display: inline-block;
+}
