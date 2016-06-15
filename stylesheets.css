@@ -91,10 +91,11 @@ h2 {
 
 
 .servic {
-  width: 96.3%;
+  width: 98%;
   height: auto;
   background-color: #222;
-
+  padding-left: 8px;
+  padding-right: 8px;
   text-align: left;
   font-size: 20px;
   color: #fff;
